@@ -68,7 +68,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.19)
     multi_json (1.4.0)
-    mysql (2.9.0-x86-mingw32)
+    mysql2 (0.3.11-x86-mingw32)
     nokogiri (1.5.5-x86-mingw32)
     pg (0.12.2-x86-mingw32)
     polyglot (0.3.3)
@@ -147,7 +147,7 @@ DEPENDENCIES
   capybara (= 1.1.2)
   coffee-rails (= 3.2.2)
   jquery-rails (= 2.0.2)
-  mysql
+  mysql2
   pg (= 0.12.2)
   rails (= 3.2.9)
   rspec-rails (= 2.11.0)
